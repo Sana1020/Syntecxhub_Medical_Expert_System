@@ -23,7 +23,7 @@ A simple Python-based rule engine that demonstrates forward chaining in a medica
 2. Run the script with Python:
 
 ```bash
-python "Rule-Based Medical Expert System.py"
+python "Expert_System.py"
 ```
 
 3. Enter symptoms separated by commas when prompted, for example:
