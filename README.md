@@ -49,7 +49,7 @@ fever, cough, headache
 
 ## Project Structure
 
-- `Rule-Based Medical Expert System.py` - main application script
+- `Expert System.py` - main application script
 - `README.md` - project documentation
 
 ## Notes
